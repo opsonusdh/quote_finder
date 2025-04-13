@@ -20,3 +20,5 @@ cd quote-finder
 pip install -r requirements.txt
 python quote-finder.py
 ```
+
+Please star the repository. Thanks for reading. Have a good day.
