@@ -1,0 +1,4 @@
+requests
+bs4
+deep_translator
+googlesearch-python
